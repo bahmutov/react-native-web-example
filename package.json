@@ -1,6 +1,7 @@
 {
-  "name": "react-native",
+  "name": "react-native-web-example",
   "version": "1.0.0",
+  "private": true,
   "description": "React Native for Web starter template",
   "keywords": [],
   "main": "src/index.js",
